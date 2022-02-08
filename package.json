@@ -1,0 +1,22 @@
+{
+    "name": "paradise",
+    "displayName": "Paradise",
+    "description": "Paradise color theme for Visual Studio Code.",
+    "license": "MIT",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.64.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Paradise",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Paradise-color-theme.json"
+            }
+        ]
+    }
+}
