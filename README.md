@@ -13,30 +13,4 @@
 
 # Installation
 
-Clone the repo 
-
-```
-git clone https://github.com/Manas140/paradise-vscode 
-```
-
-Move the cloned folder in 
-
-> for Linux
-  
-  - Vscode from microsoft
-
-    ```
-    $HOME/.vscode/extentions
-    ```
-  
-  - Code-oss
-
-    ```
-    $HOME/.vscode-oss/extentions
-    ```
-
-> for Windows
-
-  ```
-  %USERPROFILE%\.vscode\extensions
-  ```
+https://marketplace.visualstudio.com/items?itemName=Manas.paradise-vscode
