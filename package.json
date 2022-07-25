@@ -1,22 +1,22 @@
 {
   "name": "paradise-vscode",
   "displayName": "Paradise",
-  "description": "Paradise color theme for Visual Studio Code.",
+  "description": "Paradise theme for VScode.",
   "license": "MIT",
   "publisher": "Manas",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
-    "vscode": "^1.0.0"
+    "vscode": "^1.69.0"
   },
   "scripts": {
     "push": "vsce package -o paradise.vsix && vsce publish"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Manas140/paradise-vscode.git"
+    "url": "https://github.com/paradise-theme/vscode.git"
   },
   "bugs": {
-      "url": "https://github.com/Manas140/paradise-vscode/issues"
+      "url": "https://github.com/paradise-theme/vscode/issues"
   },
   "categories": [
     "Themes"
@@ -26,7 +26,7 @@
       {
         "label": "Paradise",
         "uiTheme": "vs-dark",
-        "path": "./themes/Paradise-color-theme.json"
+        "path": "./themes/paradise-color-theme.json"
       }
     ]
   },
