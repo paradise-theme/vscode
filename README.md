@@ -8,12 +8,28 @@
 </p>
 
 <p align="center">
-  <img src="preview.png">
+  <img src="https://github.com/paradise-theme/vscode/raw/HEAD/preview.png">
 </p>
 
 # Installation
 
 On [MarketPlace](https://marketplace.visualstudio.com/items?itemName=Manas.paradise-vscode)
+
+# Prefered User Settings (JSON)
+
+```json
+{
+    "window.menuBarVisibility": "toggle",
+    "editor.tabSize": 2,
+    "editor.minimap.enabled": false,
+    "editor.lineHeight": 22,
+    "editor.fontSize": 14,
+    "editor.fontFamily": "JetBrains Mono",
+    "workbench.colorTheme": "Paradise"
+}
+```
+
+JetBrains Mono Download: https://www.jetbrains.com/lp/mono
 
 # Reference
 
